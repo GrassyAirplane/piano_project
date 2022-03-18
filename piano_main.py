@@ -12,3 +12,4 @@ keys = {1: play_sound, 2: play_sound, 3: play_sound,
         7: play_sound, 8: play_sound, 9: play_sound, 
         0: play_sound, '-': play_sound, '=': play_sound}
 
+
